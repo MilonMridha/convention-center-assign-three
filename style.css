@@ -1,0 +1,26 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+.link-button{
+
+    color: blue;
+    background-color: cornsilk;
+    
+    border-radius: 8px;
+    padding: 6px 15px;
+    border: none;
+    text-decoration: none;
+}
+.btn-btn-card{
+    text-decoration: none;
+    background-color: rgb(206, 167, 153);
+    background-image: linear-gradient(orange,tomato);
+    color: rgb(22, 11, 11);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 20px;
+}
