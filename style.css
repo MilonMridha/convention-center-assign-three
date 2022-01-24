@@ -24,3 +24,6 @@ body{
     padding: 10px 40px;
     border-radius: 20px;
 }
+.footer .footer-achor{
+    text-decoration: none;
+}
